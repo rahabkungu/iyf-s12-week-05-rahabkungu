@@ -1,0 +1,17 @@
+# operating System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Node modules (if you use npm later)
+node_modules/
+
+# Environment variables or local config files
+.env
+.env.local
+
+# Editor directories and files
+.vscde/
+.idea/
+*.swp
+*.swo

@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, san serif;
+    padding: 20px;
+    background-color: #ffffff;
+    color: blacks;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/*Dark mode class*/
+body.dark-mode{
+    background-color: #121212;
+    color: #ffffff;
+}
+
+section{
+    margin-bottom:20px;
+}
+
+#source, #target{
+    max-width:  400px;
+}
